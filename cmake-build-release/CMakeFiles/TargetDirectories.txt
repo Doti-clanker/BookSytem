@@ -1,0 +1,3 @@
+C:/Users/qakeF/Downloads/AdventurerGuild/cmake-build-release/CMakeFiles/GameApp.dir
+C:/Users/qakeF/Downloads/AdventurerGuild/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/qakeF/Downloads/AdventurerGuild/cmake-build-release/CMakeFiles/rebuild_cache.dir

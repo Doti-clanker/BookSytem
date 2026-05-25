@@ -1,0 +1,4 @@
+cmake.exe -DCMAKE_BUILD_TYPE=Release -G "NMake Makefiles" -S C:\Users\qakeF\Downloads\AdventurerGuild -B C:\Users\qakeF\Downloads\AdventurerGuild\cmake-build-release
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/qakeF/Downloads/AdventurerGuild/cmake-build-release
