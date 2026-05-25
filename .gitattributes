@@ -1,8 +1,11 @@
-# Catch all Makefile variants and extensions
-[Mm]akefile* linguist-vendored
-*.mk linguist-vendored
-*.mak linguist-vendored
+# Ignore all Makefiles globally, in any directory
+**/[Mm]akefile* linguist-vendored
+**/*.mk linguist-vendored
+**/*.mak linguist-vendored
 
-# Catch all CMake files
-CMakeLists.txt linguist-vendored
-*.cmake linguist-vendored
+# Ignore compiler-generated Makefile dependency files (.d)
+**/*.d linguist-vendored
+
+# Ignore all CMake files globally
+**/CMakeLists.txt linguist-vendored
+**/*.cmake linguist-vendored
