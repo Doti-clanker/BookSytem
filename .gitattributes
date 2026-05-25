@@ -1,0 +1,7 @@
+# Mark CMake files as vendor/documentation so they are ignored in stats
+*.cmake linguist-vendored
+CMakeLists.txt linguist-vendored
+
+# Mark Makefiles as vendor/documentation so they are ignored in stats
+Makefile linguist-vendored
+*.mk linguist-vendored
